@@ -1,157 +1,51 @@
-.phone{
-
+.firstpart{
+  position: absolute;
+  height: 150px;
+  background-color: yellow;
+  width: 150px;
+  border-style: solid;
+  border-width: 10px;
+  top: 30px;
+  left: 0px;
 }
-
-
-.body{
-margin: 0;
-padding: 0;
-
-
+.Secondpart{
+  position:absolute;
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+  top: 200px;
+  left: 170px;
+  bottom: 600px;
 }
-.k{
-  top: 40px; right: 20px;
-  padding-left: 50px;
-  position: fixed;
-
+.Thirdpart{
+    position: absolute;
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  top: 350px;
+  left: 320px;
 }
-.round{
-  border-radius:150px;
-}
-.hobby{
-  display: inline-block;
+.fourthpart{
   position: relative;
-}
-.h2{
-display: inline-block;
-position: relative;
+height: 150px;
+width: 150px;
+background-color: red;
+top: 600px;
+left: 645px;
 
 }
-.h3{
-  display: inline-block;
+.fivethpart{
   position: relative;
+height: 150px;
+width: 150px;
+background-color: blue;
+top: 450px;
+left: 800px;
 }
-.hobby{
- height: 60%;
- width: 17%;
- border: 1px solid white;
- box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
- margin-left: 1.5%;
- margin-top: 0vw;
- background: white;
- font-family: 'Kristen ITC', cursive;
-}
-.tex1{
-  clear: left;
-  float: none;
- margin-left:10%;
- font-size:1.3vw;
- font-weight: bold;
- margin-top:35%;
-
-}
-.h2{
-
- height: 60%;
- width: 17%;
- border: 1px solid white;
- box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
- margin-left:  1.5%;
- margin-top: -40.8vw;
- background: white;
-
-}
-
-
-.tex3{
-  clear: left;
-float: none;
- margin-left:10%;
- font-size:1.3vw;
- font-weight: bold;
- margin-top:30%;
- font-family: 'Kristen ITC', cursive;
-}
-
-.h3{
-
- height: 60%;
- width: 17%;
- border: 1px solid white;
- box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
- margin-left: 1.5%;
- margin-top: -14.8vw;
- background: white;
- font-family: 'Kristen ITC', cursive;
-}
-
-.tex5{
-  clear: left;
-  float: none;
- margin-left:10%;
- font-size:1.3vw;
- font-weight: bold;
- margin-top:20%;
- font-family: 'Kristen ITC', cursive;
-}
-
-.j{
-  display: inline-block;
-}
-.skill{
-  height: 60%;
-  width: 17%;
-  border: 1px solid white;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
-  margin-left: 1.5%;
-  margin-top: 2vw;
-  background: white;
-  font-family: 'Kristen ITC', cursive;
-}
-.tex2{
-  clear: left;
-  float: none;
- margin-left:10%;
- font-size:1.3vw;
- font-weight: bold;
- margin-top:35%;
-
-
-}
-.tex4{
-  clear: left;
-float: none;
- margin-left:10%;
- font-size:1.3vw;
- font-weight: bold;
- margin-top:40%;
- font-family: 'Kristen ITC', cursive;
-
-}
-.tex6{
-  clear: left;
-  float: none;
- margin-left:10%;
- font-size:1.3vw;
- font-weight: bold;
- margin-top:35%;
- font-family: 'Kristen ITC', cursive;
-}
-.s3{
-  height: 60%;
-  width: 17%;
-  border: 1px solid white;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
-  margin-left: 40.5%;
-  margin-top: -18.25vw;
-  background: white;
-  font-family: 'Kristen ITC', cursive;
-}
-.s2{
-  height: 60%;
-width: 17%;
-border: 1px solid white;
-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
-margin-left:  20.5%;
-margin-top: -19.2vw;
-background: white;}
+.sixthpart{
+   position: relative;
+height: 150px;
+width: 150px;
+background-color: green;
+top: 300px;
+left: 490px;}
